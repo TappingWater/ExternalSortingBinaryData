@@ -14,4 +14,4 @@ Initially, the program reads the first 8 blocks of the input file into memory an
 The algorithm then utilizes a multi way merge to combine the runs into a single sorted file. This creates a sorted output for binary data. 
 
 # Invocation
-java Externalsort <record file name>
+java Externalsort "name of input file".
